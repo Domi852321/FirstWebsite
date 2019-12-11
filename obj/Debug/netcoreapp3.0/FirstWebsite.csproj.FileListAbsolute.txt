@@ -1,0 +1,17 @@
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\FirstWebsite.exe
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\FirstWebsite.deps.json
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\FirstWebsite.runtimeconfig.json
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\FirstWebsite.runtimeconfig.dev.json
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\FirstWebsite.dll
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\bin\Debug\netcoreapp3.0\FirstWebsite.pdb
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\obj\Debug\netcoreapp3.0\FirstWebsite.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\obj\Debug\netcoreapp3.0\staticwebassets\FirstWebsite.StaticWebAssets.Manifest.cache
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\obj\Debug\netcoreapp3.0\staticwebassets\FirstWebsite.StaticWebAssets.xml
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\obj\Debug\netcoreapp3.0\FirstWebsite.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\obj\Debug\netcoreapp3.0\FirstWebsite.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\obj\Debug\netcoreapp3.0\FirstWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\obj\Debug\netcoreapp3.0\FirstWebsite.dll
+C:\Users\Dominik\source\repos\FirstWebsite\FirstWebsite\obj\Debug\netcoreapp3.0\FirstWebsite.pdb
